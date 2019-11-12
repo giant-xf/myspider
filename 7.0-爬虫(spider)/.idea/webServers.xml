@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b8e4024b-8c52-48d7-a084-b27055c8f113" name="my_spider" url="http://192.168.43.150">
+        <fileTransfer host="192.168.43.150" port="22" rootFolder="/home/chenxiongfeng/python" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

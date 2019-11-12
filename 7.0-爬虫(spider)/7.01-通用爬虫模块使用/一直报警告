@@ -1,0 +1,5 @@
+在前面加上这句
+
+import urllib3
+
+urllib3.disable_warnings()

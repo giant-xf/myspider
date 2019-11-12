@@ -1,0 +1,201 @@
+{
+   "电影集合": [
+      {
+         "播放地址": "https://movie.douban.com/subject/30282387/",
+         "豆瓣评分": "6.2",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561542089.jpg",
+         "片名": "银河补习班"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30337760/",
+         "豆瓣评分": "6.8",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569004777.jpg",
+         "片名": "在无爱之森呐喊"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30366084/",
+         "豆瓣评分": "6.6",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568649517.jpg",
+         "片名": "断裂"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30372377/",
+         "豆瓣评分": "8.4",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569548689.jpg",
+         "片名": "续命之徒：绝命毒师电影"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/27180759/",
+         "豆瓣评分": "7.3",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565751382.jpg",
+         "片名": "送我上青云"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/27166976/",
+         "豆瓣评分": "7.7",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2553320254.jpg",
+         "片名": "安娜"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/26331839/",
+         "豆瓣评分": "5.4",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2565877341.jpg",
+         "片名": "保持沉默"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/27010768/",
+         "豆瓣评分": "8.7",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561439800.jpg",
+         "片名": "寄生虫"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30288638/",
+         "豆瓣评分": "6.5",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2550004671.jpg",
+         "片名": "仲夏夜惊魂"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/26816090/",
+         "豆瓣评分": "5.4",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564369311.jpg",
+         "片名": "沉默的证人"
+      }
+   ],
+   "类别": [
+      "热门"
+   ]
+}
+{
+   "电影集合": [
+      {
+         "播放地址": "https://movie.douban.com/subject/30337760/",
+         "豆瓣评分": "6.8",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569004777.jpg",
+         "片名": "在无爱之森呐喊"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30366084/",
+         "豆瓣评分": "6.6",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2568649517.jpg",
+         "片名": "断裂"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/27158530/",
+         "豆瓣评分": "5.9",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559564778.jpg",
+         "片名": "尼可曼斯"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/26665875/",
+         "豆瓣评分": "6.2",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2565181699.jpg",
+         "片名": "老千3：独眼杰克"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30168156/",
+         "豆瓣评分": "6.7",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566931444.jpg",
+         "片名": "加油，李先生"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30372377/",
+         "豆瓣评分": "8.4",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569548689.jpg",
+         "片名": "续命之徒：绝命毒师电影"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/27080660/",
+         "豆瓣评分": "7.1",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516948449.jpg",
+         "片名": "特别的她 Progressive"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30186498/",
+         "豆瓣评分": "6.8",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2525120569.jpg",
+         "片名": "我们无法阻挡"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/27046734/",
+         "豆瓣评分": "5.8",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2560021039.jpg",
+         "片名": "幽灵女孩"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30155212/",
+         "豆瓣评分": "5.8",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2543785217.jpg",
+         "片名": "大龄美女想相亲"
+      }
+   ],
+   "类别": [
+      "最新"
+   ]
+}
+{
+   "电影集合": [
+      {
+         "播放地址": "https://movie.douban.com/subject/26752088/",
+         "豆瓣评分": "9.0",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg",
+         "片名": "我不是药神"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/26794435/",
+         "豆瓣评分": "8.6",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2563780504.jpg",
+         "片名": "哪吒之魔童降世"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/30372377/",
+         "豆瓣评分": "8.4",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2569548689.jpg",
+         "片名": "续命之徒：绝命毒师电影"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/1292052/",
+         "豆瓣评分": "9.7",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+         "片名": "肖申克的救赎"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/1295644/",
+         "豆瓣评分": "9.4",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg",
+         "片名": "这个杀手不太冷"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/26387939/",
+         "豆瓣评分": "9.0",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.jpg",
+         "片名": "摔跤吧！爸爸"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/27060077/",
+         "豆瓣评分": "8.9",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549177902.jpg",
+         "片名": "绿皮书"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/1291561/",
+         "豆瓣评分": "9.3",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg",
+         "片名": "千与千寻"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/25662329/",
+         "豆瓣评分": "9.2",
+         "封面": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315672647.jpg",
+         "片名": "疯狂动物城"
+      },
+      {
+         "播放地址": "https://movie.douban.com/subject/1292722/",
+         "豆瓣评分": "9.4",
+         "封面": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg",
+         "片名": "泰坦尼克号"
+      }
+   ],
+   "类别": [
+      "豆瓣高分"
+   ]
+}

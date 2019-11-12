@@ -1,0 +1,21 @@
+{
+  "translateResult": [
+    [
+      {
+        "tgt": "你好",
+        "src": "hello"
+      }
+    ]
+  ],
+  "errorCode": 0,
+  "type": "en2zh-CHS",
+  "smartResult": {
+    "entries": [
+      "",
+      "n. 表示问候， 惊奇或唤起注意时的用语\r\n",
+      "int. 喂；哈罗\r\n",
+      "n. (Hello)人名；(法)埃洛\r\n"
+    ],
+    "type": 1
+  }
+}

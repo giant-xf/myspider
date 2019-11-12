@@ -1,0 +1,3889 @@
+{
+   "s_cate": "计算机理论",
+   "book_name": " 计算机导论（第3版） ",
+   "book_press": "清华大学出版社",
+   "book_desc": null,
+   "book_author": [
+      "黄国兴",
+      "陶树平",
+      "丁岳伟"
+   ],
+   "b_cate": [
+      "科技"
+   ],
+   "m_cate": "计算机/网络",
+   "s_href": "http://category.dangdang.com/cp01.54.02.00.00.00.html",
+   "book_img": "http://img3m0.ddimg.cn/27/36/25314030-1_b_1.jpg",
+   "book_price": "¥32.30",
+   "book_publish_date": " /2013-05-01"
+}{
+   "book_price": "¥77.00",
+   "book_name": " Zabbix监控系统深度实践（第2版） ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/69/20/1439899827-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥44.90",
+   "book_name": " 轻松玩转Android手机(你的手机是安卓系统吗？那还等什么，这本强大的攻略就在眼前) ",
+   "m_cate": "计算机/网络",
+   "book_press": "化学工业出版社",
+   "book_publish_date": null,
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "（1）内容全面 涵盖了Android操作系统的绝大部分功能，同时介绍了许多好玩、实用的第3方软件，内容丰富充实，同时还写到了深度进阶的刷机过程，竭力做到让读者“只有想不到，没有做不到”。 （2）逻辑清晰 根据Android系统中功能的不同，本书章节进行了合理的划分，循序渐进具有层次感，做到让读者通读之后对Android系统有个清晰的认识。 （3）表达方法合理 在写作过程中，避免了冗繁的文字叙述，通过大量的详细操作截图来展示具体应用，做到图文对照、简单易学，从而能够更好地吸引读者的注意力并提高读者的兴趣。",
+   "book_author": [
+      "潘燕"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/68/4/22508510-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥26.40",
+   "book_name": " 数码影视篇（含光盘一张） ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2004-04-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "《数码影视篇》主要介绍了数码摄像机及其使用和选购方法、各种拍摄技巧。使用Premiere和After Effects进行后期编辑，以及使用Photoshop处理图片等内容，*后还介绍了各种视频输出方式。",
+   "book_author": [],
+   "book_img": "http://img3m1.ddimg.cn/60/6/8822841-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥196.00",
+   "book_name": " 架构整洁之道+从零开始学架构 照着做你也能成为架构师 2册 架构设计方法与流程案例详解书 高性能高可用可扩展架构设计参 ",
+   "m_cate": "计算机/网络",
+   "book_press": "无",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/69/10/1439493927-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥63.00",
+   "book_name": " Spark 大数据集群计算的生产实践 spark大数据集群计算教程书籍 spark机器学习教程 spark计算机算法核 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/0/26/1439694927-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥77.00",
+   "book_name": " MyBatis技术内幕 mybatis编程教程书籍 mybatis3.4框架架构设计实现原理开发入门教程 Spring ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/77/14/1438613627-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥97.00",
+   "book_name": " TensorFlow进阶指南基础算法与应用 黄鸿波 TensorFlow开发 TensorFlow基础知识 神经网络 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-10-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "黄鸿波"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/71/36/1439464427-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥97.00",
+   "book_name": " Qt5开发及实例（第3版）Qt编程书籍 QT5软件学习开发教程 Qt 5应用程序开发 Qt从入门到精通 qt程序设计教 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/47/10/1439778827-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥46.00",
+   "book_name": " 智能优化算法及其MATLAB实例（第2版）智能化算法工程应用书 IT工程师宝典 matlab信号处理图像处理模式识别自 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "包子阳"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/58/14/1439542327-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥20.00",
+   "book_name": " 我的田园梦想 ",
+   "m_cate": "计算机/网络",
+   "book_press": "机械工业出版社",
+   "book_publish_date": " /2007-07-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "廖彦"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/31/8/9341176-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥77.00",
+   "book_name": " Scratch编程实战指南 奥松学盟 动手玩转Scratch2.0编程Scratch图形化编程开源硬件Arduino机 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-04-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "奥松学盟"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/39/22/1440282927-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥67.00",
+   "book_name": " 自己动手做iOS App：从设计开发到上架App Store iOS开发实战：从零基础到App Store iOS 9 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "张子怡"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/55/15/1438829227-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥22.40",
+   "book_name": " VIP——不潮不iPad 2（全彩） ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2011-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "启赋书坊"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/9/24/23341437-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥67.00",
+   "book_name": " 小小的Python编程故事 写给孩子看的Python编程零基础入门书籍 Python编程启蒙书 程序设计算法中小学生儿 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "毛雪涛"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/2/5/1439625827-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥96.00",
+   "book_name": " Android高性能编程 android移动应用程序设计开发教程 安卓系统框架架构设计书 设备调试内存管理技术书 an ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/43/24/1438927027-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥32.60",
+   "book_name": " 解密电商视觉：从摄影到设计 作者总结了自己多年在行业*线的实战经验和方法论，让勇于在新的商业社会中探索的人们更快捷地达到目标，制作出让自己产品大卖的电商设计。",
+   "m_cate": "计算机/网络",
+   "book_press": "天津科学技术出版社",
+   "book_publish_date": " /2018-06-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "张瀛老师对视觉设计的热爱是从骨子里发出的，看似一个一个可操作的 术 ，浅显易懂，实际是系统的 道 ，悟到其中之 道 ，便可举一反三，融会贯通。这设计之道，源于他对商业，对新经济，对用户的深切理解。",
+   "book_author": [
+      "张瀛"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/49/26/25282570-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥79.00",
+   "book_name": " 黑客秘笈 渗透测试实用指南 第2版 黑客破解 渗透测试技术 社会工程学技巧 计算机安全防护书 杀毒软件检测方法 黑客攻 ",
+   "m_cate": "计算机/网络",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2018-09-29",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "皮特",
+      "基姆"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/74/1/1019270414-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥62.40",
+   "book_name": " 数码插图设计：创意图形图像经典教程 ",
+   "m_cate": "计算机/网络",
+   "book_press": "中国青年出版社",
+   "book_publish_date": " /2007-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "美国Roto",
+      "Vision",
+      "S.A出版社"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/69/8/20018562-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥196.00",
+   "book_name": " 3本套 和孩子一起学编程 核心编程基础教程网络爬虫入门书籍python视频编程从入门到精通程序设计教材 ",
+   "m_cate": "计算机/网络",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2018-09-29",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m4.ddimg.cn/87/22/1019261814-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥59.20",
+   "book_name": " 数码人体摄影——数码摄影入门丛书 ",
+   "m_cate": "计算机/网络",
+   "book_press": "湖南美术出版社",
+   "book_publish_date": " /2004-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "如何创造美丽的体数码图像。 与当今人体摄影相关的多种图像风格和重要题材。 包括各种各样的人体精彩图像范例以及拍摄同等水平图像的简要步骤。 学习如何利用各种光源，拍摄技巧，定位，构图，模特儿选择，姿势设计，选时以及图像控制来拍摄*好，*动人的人体图像。",
+   "book_author": [
+      "麦克多纳",
+      "胡平杰",
+      "周海燕"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/58/0/8997475-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥36.80",
+   "book_name": " VIP——全新iPad轻松玩（全彩） ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2012-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "乐果乐生活编著的《时尚达人**季——全新iPad轻松玩》是一本实用的书，内容充实丰富并具有层次感，深入浅出，图文并茂，浅显易懂，全面系统地介绍了全新iPad（The New iPad，一个很Q 的中文名是“牛排”) 的基本操作和使用技巧。同时本书也是一本轻松时尚的书，和你一起分享明星、达人的iPad 时尚秀，以及iPad 的传奇身世和数不清的荣耀与光环。",
+   "book_author": [
+      "乐果乐生活"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/59/13/23341685-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥49.00",
+   "book_name": " 反入侵的艺术 黑客入侵背后的真实故事 安全技术经典译丛 黑客技术网络书籍 windows系统漏洞密码病毒马攻防书籍 计 ",
+   "m_cate": "计算机/网络",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2018-09-29",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "Kevin",
+      "D.Mitnick"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/59/18/1019268914-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥53.80",
+   "book_name": " 我的世界Minecraft新手完全指南 新手玩家进阶必读游戏攻略书籍 mc中文指南我的世界中文论坛推荐图书 玩转生存技巧 新手导航 红石系统 建筑搭建 战斗指南",
+   "m_cate": "计算机/网络",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2017-12-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "阅读本书，你将会get以下新技能： Minecraft入门 学习基本生存技巧 开发进阶技能 自定义Minecraft 让Minecraft走入家庭 十个生存技巧、十个建筑技巧、十个红石技巧",
+   "book_author": [
+      "Jesse",
+      "Stay",
+      "Thomas",
+      "Stay",
+      "Jacob",
+      "Cordeiro"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/17/29/25205021-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥176.00",
+   "book_name": " 现货 三本套 黑客攻防从入门到精通+实战篇+绝招版 网络安全实战技术知识教程 软件工具自学电脑编程入门 黑客书籍入门自 ",
+   "m_cate": "计算机/网络",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2018-09-29",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "Atul",
+      "Kahate",
+      "金名"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/53/36/1019298014-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥68.00",
+   "book_name": " 黑客攻防 实战加密与解密 Web渗透攻击 密码获取破解 黑客防范 win Linux 数据库系统破解 电子邮件WiFi ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-09-29",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "陈小兵"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/61/33/1019269114-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥22.10",
+   "book_name": " 新潮电子 精华本：玩转数码应用宝典（图书＋配套光盘） ",
+   "m_cate": "计算机/网络",
+   "book_press": "人民交通出版社",
+   "book_publish_date": " /2004-10-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "远望图书部"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/97/11/8926927-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥63.20",
+   "book_name": " VIP——苹果物语(含DVD光盘1张)（全彩） ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2012-02-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "刘金弟"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/62/8/23467517-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥77.00",
+   "book_name": " Koa与Node.js开发实战 iKcamp koa入门教程书籍 利用koa开发web页面 vscode项目设置 js ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-12-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "iKcamp"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/60/10/1439760327-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥15.40",
+   "book_name": " 摄像技术与DV制作 ",
+   "m_cate": "计算机/网络",
+   "book_press": "浙江大学出版社",
+   "book_publish_date": " /2006-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "程勇"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/14/20/9342446-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥7.90",
+   "book_name": " 奥拉星之亚比养成攻略（上） ",
+   "m_cate": "计算机/网络",
+   "book_press": "江苏美术出版社",
+   "book_publish_date": " /2011-12-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "资深韩国儿童漫画编辑宋道树老师编著的《冒险岛献给渴望冒险的人（2）》是由人气网游《冒险岛online》改编，描写了立志成为伟大战士的多多与伙伴爱亚、阿鲁鲁、芭尔、德里奇等一起旅行，克服重重困难，打败无数强大的怪物，共同拯救冒险岛世界的传奇故事。作品融入了冒险、幽默、战斗、友情等大量元素，巧妙地糅合了游戏与漫画，展现出一个瑰丽的想象世界，成为深受百万韩国家庭喜爱的绿色漫画。",
+   "book_author": [
+      "孛日帖赤那工作室"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/75/25/22604250-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥20.70",
+   "book_name": " 2009攻略集结号6.5X系列—魔兽争霸III（配电子竞技宝典） ",
+   "m_cate": "计算机/网络",
+   "book_press": null,
+   "book_publish_date": " /2011-08-22",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m0.ddimg.cn/9/1/22484790-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥39.40",
+   "book_name": " 中老年人学iPad一看就会全彩畅销大字图解版（让中老年人赶上时代步伐，乐享数码时代新生活！） ",
+   "m_cate": "计算机/网络",
+   "book_press": "中国青年出版社",
+   "book_publish_date": " /2014-02-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "上网、聊天、玩游戏、网上购物……早已不是年轻人的专利，思想落伍了，才是真的落伍了！赶紧拿起本书，跟上时代步伐，畅享网络世界的精彩与便捷！",
+   "book_author": [
+      "汪薇"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/29/25/23394422-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥25.30",
+   "book_name": " Vegas数码影像剪辑（附光盘） ",
+   "m_cate": "计算机/网络",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2007-04-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "王飞飞",
+      "郎庆泉"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/24/6/9284046-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥26.20",
+   "book_name": " 完美DV——数码摄像与影视制作 ",
+   "m_cate": "计算机/网络",
+   "book_press": "东华大学出版社",
+   "book_publish_date": " /2004-06-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "苏文",
+      "林少雄"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/43/13/8903212-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥88.00",
+   "book_name": " UG NX 10中文版完全自学一本通ug nx10.0软件视频教程 建模零件装配工程图设计运动仿真有限元分析教材书籍 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-05-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "孔祥臻"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/83/29/1440326927-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥73.00",
+   "book_name": " 架构宝典 中生代技术社区 微服务架构选型架构模式与实践 架构师优化系统架构性能移动电商消费信贷支付系统金融开发书 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "中生代技术社区"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/40/32/1440292927-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥77.00",
+   "book_name": " 人脸识别原理与实战 以MATLAB为工具人脸识别技术原理入门指南人脸识别算法设计 检测检索机器学习人工智能编程程序设 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/53/22/1439502227-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥96.00",
+   "book_name": " 基于模型的系统工程 综合运用OPM和SysML 体系工程与装备论证系列丛书 事故自动响应系统建模语言概念建模及应用技术 ",
+   "m_cate": "计算机/网络",
+   "book_press": "无",
+   "book_publish_date": " /2019-03-17",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/78/6/1439504727-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥113.00",
+   "book_name": " MySQL 8 Cookbook 中文版 mysql8.0数据库管理 mysql数据库教程 高性能数据库查询与管理技巧 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "Karthik",
+      "Appigatla",
+      "卡西克",
+      "阿皮加特拉"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/32/25/1438817027-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥8.30",
+   "book_name": " 奥拉星之副本完全攻略 ",
+   "m_cate": "计算机/网络",
+   "book_press": "江苏美术出版社",
+   "book_publish_date": " /2011-12-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "孛日帖赤那工作室"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/79/29/22604254-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥67.00",
+   "book_name": " MATLAB R2017a模式识别与智能计算 MATLAB R2017a进行算法设计与开发 神经网络RBF模糊系统算法 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-07-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "辛焕平"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/11/33/1440349427-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥18.80",
+   "book_name": " 你的手机安全吗？ ",
+   "m_cate": "计算机/网络",
+   "book_press": "世界图书出版公司",
+   "book_publish_date": null,
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m2.ddimg.cn/27/14/23410062-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥23.50",
+   "book_name": " 无师自通——轻松玩转微信实用攻略 ",
+   "m_cate": "计算机/网络",
+   "book_press": "中国铁道出版社",
+   "book_publish_date": " /2013-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "启典文化"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/29/17/23304134-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥28.50",
+   "book_name": " 1.22魔兽争霸3操作训练+战术指导 ",
+   "m_cate": "计算机/网络",
+   "book_press": null,
+   "book_publish_date": "2011-08-10",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m0.ddimg.cn/54/30/22476420-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥68.00",
+   "book_name": " 信息安全原理与实践(第2版) 安全技术经典译丛 黑客技术网络书籍 系统漏洞密码病毒马黑客攻防书籍 信息系统加密授权 安 ",
+   "m_cate": "计算机/网络",
+   "book_press": "清华大学",
+   "book_publish_date": " /2013-05-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "斯坦普|译者",
+      "张戈"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/46/18/1019287414-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥29.70",
+   "book_name": " 玩转Android手机 ",
+   "m_cate": "计算机/网络",
+   "book_press": "中国电力出版社",
+   "book_publish_date": " /2012-02-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "2套Android刷机攻略 5分钟Android手机入门 14类Android手机应用详解 29个酷玩游戏推荐 90款Android手机软件推荐",
+   "book_author": [
+      "刘展"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/46/1/22613032-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥97.00",
+   "book_name": " Python3面向对象编程 第2版 Python3并发编程 Python3.0编程语言从入门到精通 Python3程序 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-06-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "Dusty",
+      "Phillips",
+      "达斯帝·菲利普斯"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/55/14/1440363727-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥10.50",
+   "book_name": " Ulead 会声会影 6 中文版教程——友立公司标准认证培训指定教材 ",
+   "m_cate": "计算机/网络",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2003-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "本书是Ulead（友立）公司在中国区开展的认证培训的指定教材，主要介绍数码视频编辑软件Ulead会声会影6中文版的使用方法。全书共分6章，从数码视频编辑的基本概念入手，以循序渐进的方式、对软件的每一个技术细节都做了全面而深入的介绍。 本书还专门编写了综合应用实例，常见问题解答等内容，针对一些实际操作中容易遇到的问题提供了全面的解决方案。",
+   "book_author": [
+      "友立咨讯股份有限公司"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/6/24/9052962-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥41.00",
+   "book_name": " HyperMesh从入门到精通（含CD-ROM光盘一张）——数码工程师系列丛书 ",
+   "m_cate": "计算机/网络",
+   "book_press": "科学出版社",
+   "book_publish_date": " /2005-05-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "于开平"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/25/22/9006451-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥69.00",
+   "book_name": " MINECRAFT我的世界 新手完全攻略 第3版 ",
+   "m_cate": "计算机/网络",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2016-06-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "·Minecraft的世界中蕴藏着无限的可能，再加上这本书的一点点帮助，每个人都可以充分享受和沉浸在这个世界中的发现、创造与挖掘之中。·本书不仅有助于玩家快速渡过探索阶段，顺利上手，还可以使玩家更好地了解游戏的本质，发掘出其中的乐趣。·本书内容基础且详尽，循序渐进，并配有大量插图去帮助玩家参考学习。",
+   "book_author": [
+      "Stephen",
+      "Brien"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/74/14/1513735319-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥12.00",
+   "book_name": " 影音娱乐电器故障快速检修实例精选——快速学门手艺丛书（特价/封底打有圆孔） ",
+   "m_cate": "计算机/网络",
+   "book_press": "水利水电出版社",
+   "book_publish_date": " /2003-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "黄文辉",
+      "肖华"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/96/20/9054438-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥35.50",
+   "book_name": " 数码生活馆:会声会影视频处理技巧与实例(附光盘) ",
+   "m_cate": "计算机/网络",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2007-06-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "超值奉献：11段语音视频讲解及全部素材； ·16种拍摄类型深入剖析； ·20种照片常用处理技巧； ·28种*常用的摄像机操作技能； ·90多种专业素材编辑技巧； ·100余个知识点带您进入专业行列。",
+   "book_author": [
+      "冯肖飞"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/9/4/9320859-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥260.00",
+   "book_name": " MINECRAFT我的世界高手进阶攻略+Minecraft建筑 巧夺天工+红石 电控世界+合成 九宫奥秘+玩家攻略+零 全新正版 7本书",
+   "m_cate": "计算机/网络",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2017-01-12",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "Stephen",
+      "Brien"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/57/14/1043605290-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥50.80",
+   "book_name": " 【我的世界建筑大全攻略】我在MINECRAFT建城市我的世界规划建造完全攻略 MC建筑基础知识MINECRAFT基本建 品质好书正版保障优质服务发货及时售后无忧",
+   "m_cate": "计算机/网络",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2017-07-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "呆罗"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/8/23/1508274017-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥121.00",
+   "book_name": " 日光绘画 我是这样学会手机摄影的 手机摄影书 +SONYα6300 α6000微单摄影技巧大全从构图 光线 色彩到后期 ",
+   "m_cate": "计算机/网络",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2016-04-11",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "李楠"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/60/23/1094552079-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥33.80",
+   "book_name": " 2册功夫世界+奇妙时空之旅新植物大战僵尸2图鉴攻略宝典 官方正版攻略 僵粉宝典植物大战僵尸完全攻略(1) 场景地图僵尸 本店赠品均已收到实物为准，如无赠品不补发不折现。不以无赠品为理由进行退换货！",
+   "m_cate": "计算机/网络",
+   "book_press": "南京大学出版社",
+   "book_publish_date": " /2016-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "上海宝开软件有限公司"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/96/11/1196343618-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥30.00",
+   "book_name": " 光盘刻录完全攻略（配光盘）（电脑玩家全能圣手） ",
+   "m_cate": "计算机/网络",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2010-04-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "新手入门，练就高手：一册在握，玩成圣手 *完整的知识体系：5大分篇、15章专题，全面专业。 *超值的视频赠送：200多分钟视频演示，让操作重现。 *实用的范例操作：105个使用频繁的范例，经典实用。 *详尽的图解教学：1300多张高清辅助图片，全程图解。",
+   "book_author": [
+      "凤舞科技"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/42/26/20823108-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥15.00",
+   "book_name": " 家庭DV拍摄与视频编辑完全自学手册 ",
+   "m_cate": "计算机/网络",
+   "book_press": "化学工业出版社",
+   "book_publish_date": " /2006-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "腾龙视觉设计工作室"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/29/7/9271874-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥35.10",
+   "book_name": " 玩转iTunes ",
+   "m_cate": "计算机/网络",
+   "book_press": "中国电力出版社",
+   "book_publish_date": " /2012-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": "数据中心-----认识你的iTunes 快速入门------iTunes的基本操作 影音中心------iTunes播放器 明明白白-----弄清iTunes同步操作 音乐同步-----苹果设备与电脑间的音乐交换 铃声同步-----iPhone铃声制作与导入 影片同步-----苹果设备视频转换与导入 同步照片-----苹查设备与电脑间的图片传输 资料共享-----iTunes家庭应用 玩家秘笈-----iTunes应用技巧与高级应用 经典聚焦-----IOS软件、游戏推荐 完美替身-----iTools软件应用指南",
+   "book_author": [
+      "蒋畅江",
+      "王鹏"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/57/18/22592847-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_price": "¥57.00",
+   "book_name": " 机器人感知 因子图在SLAM中的应用 SLAM技术书籍 因子图数学定义 推断方法 机器人应用 机器人感知slam算法源 ",
+   "m_cate": "计算机/网络",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-10-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "数码全攻略",
+   "book_desc": null,
+   "book_author": [
+      "Frank",
+      "Dellaert",
+      "弗兰克.德尔阿特",
+      "Michael"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/14/34/1439458727-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.54.23.00.00.00.html"
+}{
+   "book_name": " 【星火英语旗舰店直营】高等数学辅导 同济七版上册下册合订本送习题赠册2019同济大学7版教材大一高数辅导书课本答案详解 ",
+   "book_author": [],
+   "book_img": "http://img3m6.ddimg.cn/22/18/1218730216-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "未知",
+   "book_publish_date": " /2018-07-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥34.80",
+   "book_desc": null
+}{
+   "book_name": " 李林2020考研数学系列辅导讲义套装（3本）高等数学+线性代数+概率论 ",
+   "book_author": [
+      "李林"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/85/30/27855517-1_b_2.jpg",
+   "m_cate": "自然科学",
+   "book_press": "国家开放大学出版社",
+   "book_publish_date": " /2019-04-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥78.40",
+   "book_desc": null
+}{
+   "book_name": " 几何原本 物种起源 相对论 基因论 通俗天文学 自然史经典科普宇宙奥秘 大厚本科普读本7册 几何原本 物种起源 相对论 基因论 通俗天文学 自然史经典科普宇宙奥秘",
+   "book_author": [
+      "阿尔伯特·爱因斯坦"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/60/18/1209184179-1_b_3.jpg",
+   "m_cate": "自然科学",
+   "book_press": "未知",
+   "book_publish_date": " /2017-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥129.79",
+   "book_desc": null
+}{
+   "book_name": " 奇妙数学史 数字与生活 迷人的数学 好玩的数学 什么是数学 神奇的数学发展历程中的趣味史话 迷人的数学 好玩的数学 什么是数学 神奇的数学发展历程中的趣味史话 真正让你感受数学",
+   "book_author": [
+      "汤姆·杰克逊"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/56/14/1272693269-1_b_2.jpg",
+   "m_cate": "自然科学",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2018-06-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥24.50",
+   "book_desc": "数学发展历程中的趣味史话，真正让你感受数学 引人入胜 的魅力"
+}{
+   "book_name": " 全4册无删减所罗门王的指环书+ 湘行散记 沈从文 猎人笔记屠格涅夫镜花缘李汝珍全译本猎人笔记书籍正版包邮索初中生书七年 ",
+   "book_author": [
+      "康拉德·洛伦茨"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/61/0/1131079714-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "中信出版社",
+   "book_publish_date": " /2017-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥62.20",
+   "book_desc": null
+}{
+   "book_name": " 挑战思维极限 勾股定理的365种证明 李迈新著 勾股定理365种证明方法 数学爱好者参考读物 平面几何中常见证明思路 ",
+   "book_author": [],
+   "book_img": "http://img3m2.ddimg.cn/30/8/1507068912-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥39.00",
+   "book_desc": null
+}{
+   "book_name": " 数学不简单 从最强大脑发现思维乐趣 数学 开发大脑 发现思考的乐趣 挖掘大脑潜力 什么是数学 数学之书 迷人的数学 这才是数学",
+   "book_author": [
+      "吴悦辰"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/48/36/1451778915-1_b_2.jpg",
+   "m_cate": "自然科学",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2019-02-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥19.50",
+   "book_desc": "发现思考的乐趣，挖掘大脑潜力"
+}{
+   "book_name": " 黄帝内经养生智慧大全集当天发 白话文 中医养生皇帝内经男女饮食起居房事经络美容养生书籍 通俗易懂 秦泉 ",
+   "book_author": [],
+   "book_img": "http://img3m6.ddimg.cn/0/31/1056099726-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "江西科学技术出版社",
+   "book_publish_date": " /2013-06-10",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥28.00",
+   "book_desc": null
+}{
+   "book_name": " 几何原本 欧几里得原版 古希腊数学原理书籍 讲述平面几何、立体几何、数论与几何 包邮正版 讲述平面几何、立体几何、数论与几何（团购请致电010-56121166）",
+   "book_author": [
+      "欧几里得"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/88/16/1208127679-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "北京理工",
+   "book_publish_date": " /2017-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥31.79",
+   "book_desc": null
+}{
+   "book_name": " 科学社 中国古算解趣-好玩的数学-修订版 郁祖权 著 科普读物 科学世界 数学 XJ ",
+   "book_author": [
+      "郁祖权"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/25/33/1442290336-1_b_2.jpg",
+   "m_cate": "自然科学",
+   "book_press": "科学出版社",
+   "book_publish_date": " /2016-05-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥26.60",
+   "book_desc": null
+}{
+   "book_name": " 【星火英语旗舰店直营】高等数学概率论与数理统计同步测试卷浙大四版配浙大4版教材四版考研数学教材辅导用书 ",
+   "book_author": [],
+   "book_img": "http://img3m6.ddimg.cn/87/1/1218716916-1_b_2.jpg",
+   "m_cate": "自然科学",
+   "book_press": "延边大学出版社",
+   "book_publish_date": " /2018-07-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥24.80",
+   "book_desc": null
+}{
+   "book_name": " 小学册-华罗庚金杯少年数学邀请赛1-18届试题和解答汇编 小学奥林匹克奥数历年真题及解析小学数学题库组决赛华杯赛 ",
+   "book_author": [
+      "徐伟宣",
+      "王世坤",
+      "王鸣"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/22/2/1507098802-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "科普",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥67.00",
+   "book_desc": null
+}{
+   "book_name": " DK商业百科 全彩 管理与决策经济管理通俗读物 人类的思想百科丛书 企业管理类 自然科学总论书 经济通俗读物 dk书籍 ",
+   "book_author": [],
+   "book_img": "http://img3m2.ddimg.cn/54/11/1507066362-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2015-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥127.00",
+   "book_desc": null
+}{
+   "book_name": " 恰同学少年 黄晖 红色经典青春励志小说 艺术创新与革命传统相结合的典范，唱响大时代背景下的青春之歌 新华书店正版图书籍 新华书店正版 中国现当代文学",
+   "book_author": [
+      "黄晖"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/4/28/1506800497-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "湖南人民出版社",
+   "book_publish_date": " /2007-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥19.50",
+   "book_desc": null
+}{
+   "book_name": " 绳长之谜-隐藏在日常生活中的数学(续编) 正版图书",
+   "book_author": [
+      "罗勃",
+      "伊斯特威",
+      "杰里米",
+      "温德姆",
+      "谈祥柏"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/21/19/1465214079-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "上海教育出版社",
+   "book_publish_date": " /2018-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥26.60",
+   "book_desc": null
+}{
+   "book_name": " MBA MPA MPAcc联考综合能力大纲解析人数学顿悟精练:试题分册（货号：A1) 陈剑 9787568238021 有任何问题 欢迎咨询 17310559855",
+   "book_author": [
+      "陈剑"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/15/1/1364965188-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "北京理工大学出版社",
+   "book_publish_date": " /2017-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥23.80",
+   "book_desc": "暂时没有内容"
+}{
+   "book_name": " 【正版书籍】 MBAMPAMPAccMEMMTAMLISMaudGCT2020管理类联考历年真题 ",
+   "book_author": [
+      "孙华明"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/55/18/1483544359-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "北京理工大学出版社",
+   "book_publish_date": " /2018-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥40.10",
+   "book_desc": "暂时没有内容"
+}{
+   "book_name": " 2020MBA/MPA/MPAcc等管理类专业学位联考英语(二)词汇一本通关:附朗读:5周秒杀大纲词汇5500 全国管 正版保证,放心选购,配送及时 服务专业",
+   "book_author": [
+      "全国管理类研究生入学考试专用教材"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/62/35/1433203064-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "中国人民大学出版社",
+   "book_publish_date": " /2019-04-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥29.30",
+   "book_desc": "5周秒杀大纲词汇5500！结合真题词汇出现的频率，全书将词汇划分为：1周础认知词汇+2周高频核心词汇+1周常用常备词汇+1周低频认知词汇=大纲词汇5500！让在职考生在有限的时间里通过二八原则，高效攻克大纲词汇！扫描封面二维码，还可获得本书带字幕的词汇朗读，便于考生随时随地浏览记忆单词，人性且周到。"
+}{
+   "book_name": " 现实不似你所见 量子引力之旅 卡洛罗韦利 七堂极简物理课进阶版 现代物理学探究相对论量子力学理论 科普百科读物 正版畅 ",
+   "book_author": [
+      "卡洛罗韦利"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/96/27/1507095312-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "湖南科学技术出版社",
+   "book_publish_date": " /2017-11-06",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥48.00",
+   "book_desc": null
+}{
+   "book_name": " 复变函数论(第4版) ",
+   "book_author": [
+      "钟玉泉"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/6/7/1115962557-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "高等教育出版社",
+   "book_publish_date": " /2013-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥23.48",
+   "book_desc": null
+}{
+   "book_name": " 正版现货 解放聪明的笨小孩 200幅图例讲解感觉统合失调多动症怎么办 吴端文超过四十年感统临床经验家庭教育育儿百科儿童 新华书店正版 素质教育",
+   "book_author": [
+      "吴端文"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/40/20/1506362557-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "中国发展出版社",
+   "book_publish_date": " /2014-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥29.00",
+   "book_desc": null
+}{
+   "book_name": " 正版 自然哲学数学原理 牛顿+九章算术 张苍 +几何原本 欧几里得+相对论 爱因斯坦 共四本 文化伟人代表作图释书系 ",
+   "book_author": [
+      "R·柯朗"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/89/15/1507071842-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "复旦大学出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥211.00",
+   "book_desc": null
+}{
+   "book_name": " 我怎样解题 ",
+   "book_author": [
+      "单墫"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/89/26/1212335477-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "上海教育出版社",
+   "book_publish_date": " /2017-05-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥46.90",
+   "book_desc": null
+}{
+   "book_name": " 基因与细胞 科学新探索丛书 生物科学 遗传学 自然科普书籍 人类从基因与细胞层面探索生命的故事 生物学研究成果在医学领 ",
+   "book_author": [],
+   "book_img": "http://img3m2.ddimg.cn/1/0/1507089772-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥57.00",
+   "book_desc": null
+}{
+   "book_name": " 2020 MBA MPA MPAcc管理类联考 陈剑数学高分指南(完全吻合考试难度，全书每章均配) 978711161 ",
+   "book_author": [
+      "陈剑"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/90/24/1510989966-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "机械工业出版社",
+   "book_publish_date": " /2019-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥37.20",
+   "book_desc": "本书侧重基本概念、基础知识和基本运算的讲解，适合基础薄弱和想通过巩固基础获得高分的考生n 220道例题举一反三，420道习题回归演练n 全书每章均配有精讲视频，帮你夯实基础、巩固考点n n"
+}{
+   "book_name": " 西方文化概论 修订版 赵林 高等教育出版社 9787040199659 可作为大学生文化素质教育通选课程教材 书籍 ",
+   "book_author": [
+      "赵林"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/25/4/1501864081-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "高等教育出版社",
+   "book_publish_date": " /2019-04-02",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥58.00",
+   "book_desc": null
+}{
+   "book_name": " 神秘北纬30°度（图文本） 正版 书籍 神秘探索 图说天下系列 这条神奇纬线上的所有奇迹 都是现代人类 自然科学科普读 ",
+   "book_author": [],
+   "book_img": "http://img3m2.ddimg.cn/56/35/1507102202-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "北京联合出版公司",
+   "book_publish_date": " /2014-02-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥19.00",
+   "book_desc": null
+}{
+   "book_name": " 视觉之旅神奇的化学元素(彩色典藏版)全3册 神奇的化学元素1+神奇的化学元素2+化学世界的分子奥秘 初中物理和高中物理 ",
+   "book_author": [
+      "胡昕",
+      "彭化南",
+      "计从斌"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/77/9/1507073612-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "复旦大学出版社有限公司",
+   "book_publish_date": " /2018-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥185.00",
+   "book_desc": null
+}{
+   "book_name": " 湖北科学技术出版?张景中科普文集?一线串通的初等数学 书籍 正版全新 ",
+   "book_author": [
+      "张景中"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/48/30/1046436879-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "湖北科学技术出版社",
+   "book_publish_date": " /2018-02-03",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥38.00",
+   "book_desc": null
+}{
+   "book_name": " 生命之美奇异植物的生存智慧 林十之 著 生活休闲植物鉴定专家手绘图谱 解读不为人知的生命领略植物世界真实模样 科普畅销 ",
+   "book_author": [
+      "林十之"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/46/6/1507100212-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "湖南科技出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥57.00",
+   "book_desc": null
+}{
+   "book_name": " 现货 现代数学基础丛书-(典藏版.第二辑)-共50种 杨乐 科学出版社有限责任公司 ",
+   "book_author": [],
+   "book_img": "http://img3m5.ddimg.cn/7/0/1501604485-1_b_2.jpg",
+   "m_cate": "自然科学",
+   "book_press": "科学出版社",
+   "book_publish_date": " /1999-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥3600",
+   "book_desc": null
+}{
+   "book_name": " DK蔬菜种植栽培百科 新鲜时蔬的文化来源性状特点与栽培步骤 菜农的种植诀窍 蔬菜的年度计划书 蔬菜病虫害防治技术图书籍 ",
+   "book_author": [
+      "Alan",
+      "Buckinghum",
+      "艾伦·白金汉"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/32/32/1507068122-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2018-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥197.00",
+   "book_desc": null
+}{
+   "book_name": " 【正版图书-H】 2019MBA、MPA、MEM、MPAcc等管理类联考与经济类联考英语(二)新教材 翻译与写作分册 正版图书-本店铺全面采用电子发票，请自觉留好税号+抬头+邮箱",
+   "book_author": [
+      "都学网学术中心",
+      "查国生",
+      "薛冰"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/79/34/1082879404-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "北京航空航天大学出版社",
+   "book_publish_date": " /2018-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥19.70",
+   "book_desc": "满足全部需求的贴心备考学习服务 一、在线教材直播 本书籍配套同步直播讲解，真人免费，老师带你深入解读新教材，讲解高分核心考点，学习过程答疑。一年循环直播，不是以书籍点缀为目的，而是以足够考生自学为标准，本书在线教材直播课相当于“买新教材送辅导班”。 二、答疑和社群学习 新教材系列开通多种方式互动，考生将享受微信备考群，可以找到同路考友，分享院校信息，阅读考试素材，了解课程安排，解答学习疑问等。 小助手微信个人号：doxue01（添加微信好友，用于交流） 备考学习微信公众号：都学网（添加微信服务号，微试卷、背单词等服务） 三、学习服务平台 都学课堂 如何使用本教材获得翻译写作高分 备考篇 要了解新的大纲要求、命题趋势等内容，熟悉翻译和写作的基本要求和考查形式，尤其是评分标准下面"
+}{
+   "book_name": " 【星火英语旗舰店直营】【星火直营燎原高数七版下册辅导】高等数学辅导习题精解同济七版下册高数辅导配同济大学高数7版教材第 ",
+   "book_author": [],
+   "book_img": "http://img3m6.ddimg.cn/20/3/1218730016-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "未知",
+   "book_publish_date": " /2018-07-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥32.80",
+   "book_desc": null
+}{
+   "book_name": " 预售 张景中科普文集全套15册(计算机怎样解几何题/少年数学实验/不用极限的微积分/漫话数学—张景中科普文集) 湖北科 全套15册 张景中文集",
+   "book_author": [
+      "张景中"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/61/22/1035247516-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "湖北科学技术出版社",
+   "book_publish_date": " /2018-02-02",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥680.00",
+   "book_desc": null
+}{
+   "book_name": " 正版书籍 9787802079861 老蒋英语备考丛书:MBA联考英语核心词汇精读笔记(2010版) 蒋军虎 经济管理 ",
+   "book_author": [
+      "蒋军虎"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/38/8/1504326620-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "经济管理出版社",
+   "book_publish_date": " /2008-09-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥18.70",
+   "book_desc": "《MBA联考英语核心词汇精读笔记(2010版)》导读： 1.重复记忆是“硬道理”2.语境背词，事半功倍"
+}{
+   "book_name": " 化学辞典(二版) 精装 周公度 自然科学 化学 化学原理和方法 研究元素化合物 化学工业出版社 正版畅销书籍 ",
+   "book_author": [
+      "周公度"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/18/23/1507080582-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "化学工业",
+   "book_publish_date": " /2011-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥87.00",
+   "book_desc": null
+}{
+   "book_name": " 自然哲学的数学原理 与《相对论》一样，开创了科学的全新纪元 决定经典 ",
+   "book_author": [
+      "艾萨克·牛顿"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/78/7/1507072722-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "江苏人民出版社",
+   "book_publish_date": " /2011-05-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥67.00",
+   "book_desc": null
+}{
+   "book_name": " 2011年MBA、MPA、MPAcc联考·数学手把手同步辅导 ",
+   "book_author": [
+      "陈忠才"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/51/25/20919048-1_b_2.jpg",
+   "m_cate": "自然科学",
+   "book_press": "机械工业出版社",
+   "book_publish_date": " /2010-08-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥21.80",
+   "book_desc": null
+}{
+   "book_name": " 现货 平行宇宙+量子宇宙+七堂极简物理课 全3册 时间简史 媲美 穿越宇宙空间 自然科学 天文学概论夜观星空天文爱好者 ",
+   "book_author": [],
+   "book_img": "http://img3m2.ddimg.cn/20/0/1507076822-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "上海科技教育出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥115.00",
+   "book_desc": null
+}{
+   "book_name": " 6册 MBA轻松读 商业思维 工商管理学专业书籍 日本商学院 MBA管理课 企业管理 创业书籍 管理学会计哈佛商学院管 ",
+   "book_author": [],
+   "book_img": "http://img3m5.ddimg.cn/83/0/1502175395-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "机械工业出版社",
+   "book_publish_date": " /2018-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥140.60",
+   "book_desc": null
+}{
+   "book_name": " 【领券减5元】中国原生观赏鱼图鉴 养鱼书籍 原生观赏鱼的专著 观赏鱼养殖技术疾病防治大全 金鱼锦鲤热带鱼龙鱼饲养管理教 ",
+   "book_author": [
+      "郑曙明",
+      "吴青",
+      "何利君",
+      "张志钢"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/49/31/1507073782-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "科学",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥165.00",
+   "book_desc": null
+}{
+   "book_name": " 九章算术 全译插图本全新修订版 张苍译注决定经典008 人类科学史上应用数学的经典书籍 中国古代算法扛鼎之作 几何算法 ",
+   "book_author": [
+      "张苍|译者",
+      "曾海龙"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/22/20/1507096822-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "江苏人民",
+   "book_publish_date": " /2011-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥37.00",
+   "book_desc": null
+}{
+   "book_name": " 生活中的数学 自然科学 数学 数学理论 发现生活中的数学之美 中小学数学辅导教材 数学理论书籍 奥数 数学竞赛博弈论逻 ",
+   "book_author": [
+      "杨峰",
+      "吴波"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/23/13/1507076132-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥34.00",
+   "book_desc": null
+}{
+   "book_name": " 1000种常见植物野外识别速查图鉴 图解中草药大全书 家庭书籍野外识别原植物鉴别图册中国常用手册 图识别与应用图典图谱 ",
+   "book_author": [
+      "杨辉霞",
+      "岳桂华",
+      "于爱华"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/83/33/1507064312-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "化学工业出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥57.00",
+   "book_desc": null
+}{
+   "book_name": " 正版 乐高机器人EV3创意搭建指南:181例**机械组合 乐高机器人机械结构搭建技术书籍 乐高机器人制作教程 青少年科 ",
+   "book_author": [
+      "Yoshihito",
+      "Isogawa"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/96/21/1507071552-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2015-10-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥68.00",
+   "book_desc": null
+}{
+   "book_name": " 细菌简史与人类的永恒博弈 细菌学基础知识细菌菌落菌群实验研究书细菌品种种类分类对抗治疗方法书籍细菌百科科普读物书籍 ",
+   "book_author": [
+      "陈代杰"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/11/9/1507085822-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "化学工业出版社",
+   "book_publish_date": " /2015-04-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥34.00",
+   "book_desc": null
+}{
+   "book_name": " 微积分入门 修订版 微积分 数学分析 小平邦彦 数值分析 普林斯顿微积分读本 数学分析辅导书 托马斯 ",
+   "book_author": [
+      "小平邦彦"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/94/8/1403291830-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2019-03-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥73.30",
+   "book_desc": "小平邦彦微积分名著，流畅易读的不朽名作"
+}{
+   "book_name": " 高等数学（工专）习题详解/高等教育自学考试新版·数学教材辅导系列 ",
+   "book_author": [
+      "吴纪桃",
+      "漆毅"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/42/1/9266244-1_b_0.jpg",
+   "m_cate": "自然科学",
+   "book_press": "清华大学出版社",
+   "book_publish_date": " /2007-02-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥17.60",
+   "book_desc": null
+}{
+   "book_name": " DK星空 英国DK 透视科普书系列11-14岁星图工具书精美的星座图集星图工具书 天文爱好者的参考图书 儿童百科 科普 ",
+   "book_author": [
+      "罗宾·斯卡格尔|译者",
+      "崔石竹",
+      "寇文",
+      "刘茜"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/74/14/1507072322-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "科普",
+   "book_publish_date": " /2007-02-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥97.00",
+   "book_desc": null
+}{
+   "book_name": " 奇妙数学史 全2册 数字与生活 数学科普知识书籍 数学发展历程中趣味史话 趣味数学知识 数学学科科普文学读物 斐波那契 ",
+   "book_author": [
+      "蔡亲鹏",
+      "陈建花"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/77/21/1507084502-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "浙江大学出版社",
+   "book_publish_date": " /2008-10-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥97.00",
+   "book_desc": null
+}{
+   "book_name": " DK万物运转的秘密 给青少年的物理趣味入门书（精装版） 儿童百科全书小学生课外阅读书 大卫麦考利经典作7-9-10-1 ",
+   "book_author": [
+      "大卫·麦考利",
+      "尼尔·阿德利"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/55/28/1507067452-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2014-05-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥127.00",
+   "book_desc": null
+}{
+   "book_name": " 2011全国各类成人高等学校招生考试统考教材高中起点升本.专科：数学文科 ",
+   "book_author": [
+      "傅崇武",
+      "贾光辉",
+      "周春红"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/2/22/22522403-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "北京邮电大学出版社有限公司",
+   "book_publish_date": " /2002-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥20.70",
+   "book_desc": null
+}{
+   "book_name": " 机工版2018MBA、MPA、MPAcc联考与经济类联考同步复习指导系列 逻辑分册(第16版) 孙勇 97871115 ",
+   "book_author": [
+      "孙勇"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/5/30/1371797267-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "机械工业出版社",
+   "book_publish_date": " /2017-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥67.50",
+   "book_desc": "暂时没有内容"
+}{
+   "book_name": " 2018机工版 MBA、MPA、MPAcc管理类联考 综合历年真题精点(第2版) 9787111565758 ",
+   "book_author": [
+      "赵鑫全",
+      "熊师路",
+      "杨洁"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/45/36/1174241619-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "机械工业出版社",
+   "book_publish_date": " /2017-04-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥34.40",
+   "book_desc": "暂时没有内容"
+}{
+   "book_name": " 英汉对照分子生物学导论 第二版 第2版 美 西尔维恩W勒潘 分子生物学双语教学教程书 分子生物学相关领域专业英语方面训 ",
+   "book_author": [
+      "西尔维恩·W.勒潘",
+      "Sylvain",
+      "Lapan",
+      "王勇"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/12/24/1507078992-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "化学工业出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥48.00",
+   "book_desc": null
+}{
+   "book_name": " 玩转乐高EV3 搭建和编程AI机器人 乐高机器人搭建教程书籍 乐高EV3人工智能AI入门 乐高EV3与AI 开发AI机 ",
+   "book_author": [
+      "凯尔·马克兰"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/72/8/1507071132-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "机械工业出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥68.00",
+   "book_desc": null
+}{
+   "book_name": " 奇妙数学史 数学科普知识书籍 数学发展历程中趣味史话 趣味数学知识书籍 数学学科科普文学读物 斐波那契数列科普读物 ",
+   "book_author": [
+      "乔尔.利维"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/91/31/1507076002-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "人民邮电出版社",
+   "book_publish_date": " /2016-10-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥48.00",
+   "book_desc": null
+}{
+   "book_name": " DK人类进化圣典（精装版）（全彩）7-9-12-15岁儿童书籍 中小学生课外书籍 英国DK公司原版出版 儿童百科全书科 ",
+   "book_author": [
+      "Alice",
+      "Roberts",
+      "爱丽丝·罗伯茨"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/89/14/1507067882-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "电子工业出版社",
+   "book_publish_date": " /2019-05-15",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥187.00",
+   "book_desc": null
+}{
+   "book_name": " 实用结肠镜学 第二版2版 龚均 董蕾 含视频精装正版医学医疗常见 ",
+   "book_author": [],
+   "book_img": "http://img3m4.ddimg.cn/23/24/1406621624-1_b_1.jpg",
+   "m_cate": "自然科学",
+   "book_press": "无",
+   "book_publish_date": " /2019-01-01",
+   "b_cate": [
+      "科技"
+   ],
+   "s_cate": "自然科学类考试",
+   "s_href": "http://category.dangdang.com/cp01.62.18.00.00.00.html",
+   "book_price": "¥70.00",
+   "book_desc": null
+}{
+   "book_price": "¥108.80",
+   "book_name": " 执业药师考试用书2019 医学教育网执业药师通关必刷1200题 西药全套4本 ",
+   "m_cate": "考试",
+   "book_press": "云南科技出版社",
+   "book_publish_date": " /2019-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "医学教育网"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/74/34/1500843836-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥11.20",
+   "book_name": " 2019国家执业药师资格考试高频必背考点速记掌中宝：药事管理与法规 电子：+考前密押试卷1套+考前直播课+手机APP题库+历年考点精析（电子书）此页面为单本购买价格，详情页为推荐搭配。",
+   "m_cate": "考试",
+   "book_press": "江苏凤凰科学技术出版社",
+   "book_publish_date": " /2019-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "执业药师考试研究专家组"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/77/32/26924414-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥21.90",
+   "book_name": " 2019年国家临床执业助理医师资格考试模拟试卷及解析 2017年至2016年10年真题不仅有解析，还有避错点指导。做两套真题题胜做4套模拟。余下真题采用扫码看解析，让读者模拟真实考试无解析的环境。",
+   "m_cate": "考试",
+   "book_press": "湖北科学技术出版社",
+   "book_publish_date": " /2017-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "医考过"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/29/18/25546187-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥158.00",
+   "book_name": " 人卫版2019年内科主治医师考试用书2019版内科学中级指导教材+精选习题集+模拟试卷全套3本全国卫生专业技术资格考试 官方教材！赠送超值电子版资料 确认收货后向客服人员索取",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "全国卫生专业技术资格考试专家委员会"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/26/34/1380407615-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥60.00",
+   "book_name": " 中药学综合知识与技能（第七版·2019）（国家执业药师考试指南） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-20",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "1 自2015年起，国家执业药师资格考试大纲发生了颠覆性变化，从考试内容、重点要求到考试题型等诸多方面都有非常重大的更新和扩充，更加着重强调理论联系实际，也更加注重和突出药学实践工作、临床用药指导和患者教育，充分体现 以用定考、以用为先、以人为本、以业为重 的主导理念，与当今执业药师所肩负的重任相适应，即以保证患者能够安全、有效、合理、规范地用药作为首要目标与准则。 中国医药科技出版社秉承 提升药师价值，护卫公众健康 的行业服务理念，一如既往地陪伴诸位考生同行在这条充斥着博弈与求索的执药备考之荆棘旅程。 【国家药品监督管理局 - 执业药师资格认证中心】授权我社出版与发行的全国统考官方指定《国家执业药师考试指南》，是执药考试的基石与指挥棒，有着纲举目张、执本末从、举足轻重、运筹帷幄之不可撼动",
+   "book_author": [
+      "国家药品监督管理局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/64/25/26475634-1_b_6.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥42.40",
+   "book_name": " 考试达人：2019乡村全科执业助理医师资格考试?试题金典（配增值） 人卫版",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-11-20",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "吴春虎"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/85/28/26184595-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥79.20",
+   "book_name": " 2019全国卫生专业技术资格考试指导——放射医学技术 人卫版",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-10-15",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "全国卫生专业技术资格"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/49/23/25809151-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥68.80",
+   "book_name": " 药学专业知识（一）（第七版·2019）（国家执业药师考试指南） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-20",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "1 自2015年起，国家执业药师资格考试大纲发生了颠覆性变化，从考试内容、重点要求到考试题型等诸多方面都有非常重大的更新和扩充，更加着重强调理论联系实际，也更加注重和突出药学实践工作、临床用药指导和患者教育，充分体现 以用定考、以用为先、以人为本、以业为重 的主导理念，与当今执业药师所肩负的重任相适应，即以保证患者能够安全、有效、合理、规范地用药作为首要目标与准则。 中国医药科技出版社秉承 提升药师价值，护卫公众健康 的行业服务理念，一如既往地陪伴诸位考生同行在这条充斥着博弈与求索的执药备考之荆棘旅程。 【国家药品监督管理局 - 执业药师资格认证中心】独家授权我社出版与发行的全国统考官方指定《国家执业药师考试指南》，是执药考试的基石与指挥棒，有着纲举目张、执本末从、举足轻重、运筹帷幄之不可",
+   "book_author": [
+      "国家药品监督管理局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/59/20/26475629-1_b_4.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥356.80",
+   "book_name": " 执业药师考试用书2019西药全套 2019年国家执业药师资格证考试执业医师考试用书2019西药学教材用书全套药学专业知 2019新版书+题库+视频 中国医药科技出版社",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "国家食品药品监督管理总局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/30/31/1469354169-1_b_8.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥60.80",
+   "book_name": " 2019临床执业医师资格考试模拟试题解析 此书增值服务之外，另赠20小时授课视频，请加QQ群788144115获取密码，先到先得赠完为止！！获得密码后根据图片操作获取视频内容！！！",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-09-15",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "此书增值服务之外，另赠20小时授课视频，请加QQ群788144115获取密码，先到先得赠完为止！！获得密码后根据图片操作获取视频内容！！！",
+   "book_author": [
+      "医师资格考试指导用书专家"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/28/27/25333039-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥88.00",
+   "book_name": " 2019临床执业医师考前预测6套卷（题题解析）（配增值） ",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2019-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "医师资格考试命题研究专家组"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/11/22/26922665-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥126.00",
+   "book_name": " 国家执业药师考试2019中药教材 辅导用书 套装共3本 中药（一）+中药（二）+中药综 ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-26",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "王建",
+      "傅超美",
+      "廖婉"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/65/6/26484347-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥13.40",
+   "book_name": " 2019贺银成国家临床执业医师资格考试考生摸底测评卷 ",
+   "m_cate": "考试",
+   "book_press": "西安交通大学出版社",
+   "book_publish_date": " /2019-02-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "银城医考教研中心"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/17/26/26515484-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥256.20",
+   "book_name": " 执业药师考试用书2019中药全套 2019执业药师考试中药习题与解析第九版 中药学专业知识一二综合知识技能药事管理与法 现货全发，送15-18年真题试卷",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2019-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "国家药品监督管理局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/74/13/1422423758-1_b_7.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥36.00",
+   "book_name": " 2018年临床执业医师资格考试历年真题避错与精解 本试卷采用高科技学习方法，教您科学备考。2017年至2016年真题不仅有解析，还有避错点指导，不仅能知其然，更能举一反三。余下真题采用扫码看解析，让读者模拟真实考试无解析的环境。",
+   "m_cate": "考试",
+   "book_press": "湖北科学技术出版社",
+   "book_publish_date": " /2017-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "医考过专家组"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/58/15/25199716-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥353.60",
+   "book_name": " 2019国家执业药师考试中药教材 考试指南 套装共4本 中药（一）+中药（二）+中药综+法规（第七版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-20",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "国家药品监督管理局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/6/8/27861378-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥188.00",
+   "book_name": " 全套26样！新版2019年执业药师考试用书西药药师2019教材习题真题试题课程试卷鸭题库职业药师书中医西医全套中国医药 2019新版书+考点+真题+课程+押题",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "国家执业药师考试精讲"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/77/11/1466136518-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥97.10",
+   "book_name": " 医学临床“三基”训练 医师分册新版2本套 （医师分册第五版+试题集新二版） ",
+   "m_cate": "考试",
+   "book_press": "湖南科技出版社",
+   "book_publish_date": " /2017-07-10",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "畅销近30年的医学考试类图书 全新改版为第五版 修订内容达到50%左右",
+   "book_author": [
+      "吴钟琪"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/28/7/25099993-1_b_8.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥24.50",
+   "book_name": " 2019国家执业药师考试用书中西药教材 掌中宝 药事管理与法规（第五版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2019-06-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "宿凌"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/50/36/27871322-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥82.40",
+   "book_name": " 药学综合知识与技能（第七版·2019）（国家执业药师考试指南） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-20",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "1 自2015年起，国家执业药师资格考试大纲发生了颠覆性变化，从考试内容、重点要求到考试题型等诸多方面都有非常重大的更新和扩充，更加着重强调理论联系实际，也更加注重和突出药学实践工作、临床用药指导和患者教育，充分体现 以用定考、以用为先、以人为本、以业为重 的主导理念，与当今执业药师所肩负的重任相适应，即以保证患者能够安全、有效、合理、规范地用药作为首要目标与准则。 中国医药科技出版社秉承 提升药师价值，护卫公众健康 的行业服务理念，一如既往地陪伴诸位考生同行在这条充斥着博弈与求索的执药备考之荆棘旅程。 【国家药品监督管理局 - 执业药师资格认证中心】独家授权我社出版与发行的全国统考官方指定《国家执业药师考试指南》，是执药考试的基石与指挥棒，有着纲举目张、执本末从、举足轻重、运筹帷幄之不可",
+   "book_author": [
+      "国家药品监督管理局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/61/22/26475631-1_b_5.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥50.40",
+   "book_name": " 2019临床执业助理医师资格考试模拟试题解析 （全新考试大纲、及增值服务）人卫版，国家医师资格考试组推荐用书此书增值服务之外，另赠20小时授课视频，请加QQ群788144115获取密码，先到先得赠完为止！！获得密码后根据图片操作获取视频内容！！！",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-09-15",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "此书增值服务之外，另赠20小时授课视频，请加QQ群788144115获取密码，先到先得赠完为止！！获得密码后根据图片操作获取视频内容！！！",
+   "book_author": [
+      "医师资格考试指导用书专家"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/31/30/25333042-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥22.80",
+   "book_name": " 2019口腔执业助理医师考前冲刺必做 ",
+   "m_cate": "考试",
+   "book_press": "科学出版社",
+   "book_publish_date": " /2018-10-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "医师资格考试试题研究专家组"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/77/32/25576430-1_b_4.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥172.80",
+   "book_name": " 2019公共卫生执业医师资格考试医学综合指导用书（上、下册） 国家公共卫生执业医师指导用书，全新大纲改版",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-09-30",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "医师资格考试指导用书专家"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/17/16/25333028-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥26.60",
+   "book_name": " 2019国家执业药师考试用书中西药教材 教材精讲 药事管理与法规（第二版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2019-05-08",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "刘佐仁"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/52/1/27871324-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥20.40",
+   "book_name": " 2019护理学(中级)资格考试历年真题汇编与精解 主管护师考试用书中级护师历年真题试卷 中级护理学师可搭人卫版教材 护理学（中级）历年4年真题，并有详细解析，是备考主管护师的不二之选。本试卷采用高科技学习方法，教您科学备考。历年真题精解，本书在手，考试无忧！！！",
+   "m_cate": "考试",
+   "book_press": "安徽科学技术出版社",
+   "book_publish_date": " /2018-08-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "护考过专家组"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/96/29/25335483-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥356.80",
+   "book_name": " 2019国家执业药师考试西药教材 考试指南 套装共4本 药（一）+药（二）+药综+法规（第七版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-20",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "国家药品监督管理局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/5/7/27861377-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥52.50",
+   "book_name": " 2019国家执业药师考试用书中药教材 通关必做2000题 中药学专业知识（二）（第四版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2019-03-25",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "姜开运"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/57/32/27849747-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥4.00",
+   "book_name": " 中医考试必备掌中宝典 针灸学 ",
+   "m_cate": "考试",
+   "book_press": "山西科学技术出版社",
+   "book_publish_date": " /2012-09-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "于丽芳"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/1/35/23321431-1_b_0.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥38.90",
+   "book_name": " 贺银成2019国家临床执业助理医师资格考试用书全真模拟试卷及精析 2019贺银成职业助理医师自考是用书全真模拟试卷解析 2019医考大纲巨变，考生不变的选择——“过医考，找银成”，出版十余年，畅销经典！",
+   "m_cate": "考试",
+   "book_press": "西安交通大学出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "◆ 2019 医考大纲巨变 ，本书严格依据医考大纲编写，系统全面、重点突出。 ◆本书由武汉大学中南医院医学考试研究中心主任、有 医考 考神 之称的贺银成老师编著。 ◆这是一本目前医考市场上出版时间较久的医考辅导用书，自出版十余年以来，为历届数百万考生所使用，赢得口碑无数，被誉为 医考指南 。 ◆正版图书 读者专享增值服务 ：录播课 直播课 在线答疑 优质题库，省心省力，全程复习无忧！ ◆为了便利阅读，本书采用护眼环保纸张、双色印刷，使 考点、重点、难点直观呈现 、一目了然，提升学习效率。",
+   "book_author": [
+      "贺银成"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/26/25/25582121-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥54.60",
+   "book_name": " 2019国家执业药师考试用书西药教材 通关必做2000题 药学综合知识与技能（第四版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2019-03-25",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "张万金"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/55/30/27849745-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥41.60",
+   "book_name": " 2019口腔执业助理医师资格考试模拟试卷 ",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2019-02-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "陈智"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/73/18/26910451-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥73.00",
+   "book_name": " 人卫社 2019年卫生健康行业职业技能培训教程 健康管理师 国家职业资格三级+基础知识 第2版 共2本 2019年1月 国家卫生健康委人才交流中心组织编写",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2009-01-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "王陇德"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/72/25/1392750288-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥26.60",
+   "book_name": " 2019国家执业药师考试必备考点速记掌中宝 中药学专业知识（一）（第五版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-27",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "周文斌"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/26/27/26483813-1_b_6.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥135.00",
+   "book_name": " 2019康复医学与治疗技术人卫版考试书康复治疗士指导教材+模拟试卷及解析共2本 康复治疗师初级士考试书 ",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "全国卫生专业技术资格"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/60/32/1469085513-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥47.60",
+   "book_name": " 2019国家执业药师考试用书中西药教材 辅导用书 药事管理与法规 （第十三版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2019-05-10",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "宿凌"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/51/0/27871323-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥13.80",
+   "book_name": " 眼镜验光员（中级）（验光员都需要的书！国家职业技能鉴定指定辅导用书，与国家题库完全对接。内容系统全面，全书彩图。） ",
+   "m_cate": "考试",
+   "book_press": "中国劳动社会保障出版社",
+   "book_publish_date": " /2008-10-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "点击进入更多 眼镜验光员 国家职业技能鉴定相关图书 ：鉴定考试指定图书，眼镜行业必备用书 《眼镜验光员（基础知识）》 《眼镜验光员（初级）》 《 眼镜验光员（中级）》 《 眼镜验光员（高级）》 《眼镜验光员（技师 高级技师）》 点击进入更多 眼镜定配工 系列图书：各级别眼镜定配工职业技能鉴定国家题库命题的直接依据 1.《眼镜定配工（基础知识）》 2. 《眼镜定配工（初级）》 3. 《眼镜定配工（中级）》 4. 《眼镜定配工（高级）》 5. 《眼镜定配工（技师 ）》",
+   "book_author": [
+      "中国就业培训技术指导中心组织"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/25/16/20587075-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥25.00",
+   "book_name": " 执业医师考试用书2019-2019年国家执业医师资格考试 乡村全科执业助理医师资格考试模拟试卷与解析（2019年） ",
+   "m_cate": "考试",
+   "book_press": "中国协和医科大学出版社",
+   "book_publish_date": " /2018-12-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "沈会"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/43/20/26484028-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥86.50",
+   "book_name": " 执业药师考试西药2019历年真题精析（四册套装）：西药综+药法+专业知识（一、二） ",
+   "m_cate": "考试",
+   "book_press": "湖南科技出版社",
+   "book_publish_date": " /2018-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "内含 10年真题及专家精析",
+   "book_author": [
+      "原第四军医大学出版社",
+      "李军珂"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/32/11/27854573-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥18.80",
+   "book_name": " 现货2019临床执业医师历年真题试卷及精解 国家执业医师资格考试辅导用书 2019临床执业医师资格考试历年真题试卷 送 2019临床执业医师历年真题试卷及精解",
+   "m_cate": "考试",
+   "book_press": "辽宁大学出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m8.ddimg.cn/4/30/1139435158-1_b_6.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥63.20",
+   "book_name": " 2019全国卫生专业技术资格考试习题集丛书——护理学（中级）同步练习题集 适用代码368、369、370、371、372、373，人卫版",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-12-28",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "李小寒",
+      "范玲"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/88/22/26482291-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥63.00",
+   "book_name": " 2019国家执业药师考试习题与解析 中药学专业知识（二）（第十一版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-26",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "王建"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/19/20/26483806-1_b_5.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥15.70",
+   "book_name": " 医疗卫生事业单位用书 2019 医疗卫生系统公开招聘考试用书 试卷题库护理公共基础 事业编制 护理学专业知识历年真题及 ",
+   "m_cate": "考试",
+   "book_press": "开明出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "扩理学试卷",
+   "book_author": [
+      "医疗卫生系统公开招聘考试命题研究中心"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/57/19/25582152-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥11.80",
+   "book_name": " 中药学专业知识（一）（第二版）（2019国家执业药师考试通关密押6套卷）（配增值、全解析） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-25",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "关枫"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/17/7/26487863-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥37.50",
+   "book_name": " 2019国家执业医师资格考试用书考点避错试卷及精解：临床执业医师 可搭指定版军医人卫版教材真题考前冲刺 ",
+   "m_cate": "考试",
+   "book_press": "第四军医大学出版社",
+   "book_publish_date": " /2015-04-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "为了帮助考生更好地掌握执业医师必备知识和技能，并使考生顺利通过执业医师资格考试，本团队特根据执业医师考试大纲和教材，结合执业药师考试特点和规律，编写了《国家执业医师资格考试考点避错及精析》系列考试用书。",
+   "book_author": [
+      "赵宇"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/1/8/26470918-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥38.90",
+   "book_name": " 2019口腔执业医师考前预测卷 ",
+   "m_cate": "考试",
+   "book_press": "科学出版社",
+   "book_publish_date": " /2018-10-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "医师资格考试试题研究专家组"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/95/18/25577933-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥13.80",
+   "book_name": " 药事管理与法规（第二版）（2019国家执业药师考试通关密押6套卷）（配增值、全解析） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-25",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "左根永"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/19/9/26487865-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥92.00",
+   "book_name": " 2019临床执业助理医师资格考试医学综合考前必做6000题(配增值) ",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2019-05-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "叶波"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/70/9/27868372-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥25.00",
+   "book_name": " 执业医师考试用书2019-2019年国家执业医师资格考试 临床执业医师资格考试模拟试卷(2019年) ",
+   "m_cate": "考试",
+   "book_press": "中国协和医科大学出版社",
+   "book_publish_date": " /2018-12-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "临床执业医师资格考试专家组"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/41/18/26484026-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥67.62",
+   "book_name": " 金英杰 2019年口腔执业医师资格考试同步金题 金英杰 2019年口腔执业医师资格考试同步金题",
+   "m_cate": "考试",
+   "book_press": "北京教育出版社",
+   "book_publish_date": " /2019-03-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "金英杰国家医学考试研究院"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/47/25/26923889-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥98.50",
+   "book_name": " 新版2019初级药士考试用书人卫版2019药学士教材+考点研读及冲刺模拟试卷2本全国卫生专业技术资格考试指导可搭军医药 ",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "全国卫生专业技术资格"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/87/28/1475523213-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥188.00",
+   "book_name": " 人卫版2019年初级临床医学检验技术师考试用书 全国卫生专业技术资格考试指导 临床医学检验技术(师)教材+练习题集+精 官方教材！赠送超值电子版资料 确认收货后向客服人员索取",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-09-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "全国卫生专业技术资格"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/81/27/1375968015-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥17.30",
+   "book_name": " 执业医师考试用书2019-2019年国家执业医师资格考试 中医执业助理医师资格考试模拟试卷(2019年) 2019执医考试丛书",
+   "m_cate": "考试",
+   "book_press": "中国协和医科大学出版社",
+   "book_publish_date": " /2019-01-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "中医执业助理医师资格考试专家组"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/76/21/26514850-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥350.00",
+   "book_name": " 执业药师考试用书2019西药全套教材 2019执业药师西药学专业知识一二综合知识技能药事管理与法规西药教材4本套 国家 【独家赠送冲刺试卷4本】 内部真题试卷 视频题库兑换卡 ！",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "国家药品监督管理局执业药师资格认证中心"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/39/29/1421984658-1_b_8.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥145.00",
+   "book_name": " 2019年执业兽医资格考试应试指南（兽医全科类）上、下册 ",
+   "m_cate": "考试",
+   "book_press": "中国农业出版社有限公司",
+   "book_publish_date": " /2019-06-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m6.ddimg.cn/60/4/27880836-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥169.74",
+   "book_name": " 金英杰 2019年中医执业（含助理）医师资格考试核心考点全攻略（上 下册） 带视频金英杰中医执业助理医师核心考点",
+   "m_cate": "考试",
+   "book_press": "北京教育出版社",
+   "book_publish_date": " /2019-02-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "金英杰国家医学考试研究中心"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/55/28/26318017-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥24.50",
+   "book_name": " 2019国家执业药师考试教材精讲 中药学综合知识与技能（第二版） ",
+   "m_cate": "考试",
+   "book_press": "中国医药科技出版社",
+   "book_publish_date": " /2018-12-26",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "姜德友"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/39/3/26483826-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥129.00",
+   "book_name": " 内科主治医师中级 2019人卫版内科主治医师用书2019年内科学中级指导教材+精选习题集+模拟试卷共3本赠考试大纲医药 人卫版 赠送电子资料，收货联系客服获取",
+   "m_cate": "考试",
+   "book_press": "人民卫生出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "全国卫生专业技术资格考试专家委员会"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/14/8/1452092018-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥95.22",
+   "book_name": " 金英杰 2019年口腔执业/助理医师资格考试冲刺金题 2018年度 热销40000册",
+   "m_cate": "考试",
+   "book_press": "北京教育出版社",
+   "book_publish_date": " /2019-04-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "金英杰国家医学考试研究院"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/41/18/27850325-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥46.50",
+   "book_name": " 执业药师资格考试通关题库2000题. 药学专业知识.一 ",
+   "m_cate": "考试",
+   "book_press": "中国中医药出版社",
+   "book_publish_date": " /2018-12-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": null,
+   "book_author": [
+      "祁小乐"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/48/21/26482845-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥15.70",
+   "book_name": " 医疗卫生事业单位用书 2019 医疗卫生系统公开招聘考试用书 试卷题库护理公共基础 事业编制 医学基础知识历年真题及全 ",
+   "m_cate": "考试",
+   "book_press": "开明出版社",
+   "book_publish_date": " /2018-11-01",
+   "b_cate": [
+      "教育"
+   ],
+   "s_cate": "医师资格",
+   "book_desc": "护理试卷",
+   "book_author": [
+      "医疗卫生系统公开招聘考试命题研究中心"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/58/20/25582153-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.47.06.00.00.00.html?fcyszg"
+}{
+   "book_price": "¥38.00",
+   "book_name": " 中国古代堪舆大全 克择讲义注解 天星居士注解 孙永言 原著 古代哲学 易学 中国广播电视出版社 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "中国广播电视出版社",
+   "book_publish_date": " /2011-03-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "孙永言"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/25/2/1320607258-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥85.80",
+   "book_name": " 周易预测学入门+周易预测题例解+周易与预测学 全3册 三本全套 邵伟华著 中国传统易学文化经典解读 周易与疾病预测",
+   "m_cate": "哲学/宗教",
+   "book_press": "新疆科学技术出版社",
+   "book_publish_date": " /2011-09-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "邵伟华"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/54/29/1286167167-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.30",
+   "book_name": " 秘传水龙经 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "内蒙古人民出版社",
+   "book_publish_date": " /2010-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "蒋大鸿"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/59/36/21088445-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥135.00",
+   "book_name": " 大六壬寻源编（全三册） ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄",
+   "book_publish_date": " /2012-04-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "周彲",
+      "肖岱宗"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/59/1/22704422-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥36.00",
+   "book_name": " 奇门启悟 刘文元著 奇门遁甲入门 奇门遁甲书籍正版 转盘奇门为主 飞盘奇门局 弘扬传统术数 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "中国商业出版社",
+   "book_publish_date": " /2009-06-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "刘文元"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/72/5/1389971457-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.30",
+   "book_name": " 天元五歌阐义 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "内蒙古人民出版社",
+   "book_publish_date": " /2010-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "章仲山"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/64/4/21088450-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥110.54",
+   "book_name": " 神相全编+图解麻衣神相+神相铁关刀+水镜神相+柳庄神相 风水学书籍 周易全书易经入门 风水命理术数畅 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2010-01-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "麻衣道者"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/92/27/1342411679-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥94.00",
+   "book_name": " 中国古代相学名著 文白对照足本全译 神相铁关刀+神相全编+柳庄神相+图解麻衣神相+水镜神相（全5册）看相面相手结穴相法 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2010-09-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "麻衣道者",
+      "金志文",
+      "袁柳庄",
+      "金志文",
+      "译注"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/0/7/1164418497-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥27.00",
+   "book_name": " 地理辨正疏 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "中医古籍出版社",
+   "book_publish_date": " /2010-06-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "王道亨",
+      "张心言"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/10/21/20992267-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥36.00",
+   "book_name": " 奇门法窍 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄",
+   "book_publish_date": " /2011-08-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": "奇门一书，久失真传，虽昭然于天下，而精斯术者鲜矣。盖遁甲者，重阴阳气运，其间二十四气之生化系焉。故装盘布局，虽至精者亦难辨其淆。由于数千年来，各抒臆见，穿凿附会，以致无所遵从。夫天地者，阴阳之枢机也；阴阳者，生死之玄关也；气运者，阴阳之体用也；八卦者，阴阳之橐龠也；奇仪者，阴阳之经纬也；干支者，阴阳之变化也。故干以配天，所以统气运而斡旋于上；支以配地，所以承气运而分支于下。盖《奇门法窍》发明奥旨，迥非世俗之臆说；详辨其真，允为奇门法窍，实千金莫传之秘，尤可为后学者之准绳云尔。",
+   "book_author": [
+      "锡孟樨",
+      "郑同"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/61/27/22502761-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥28.50",
+   "book_name": " 奇门探索录 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄",
+   "book_publish_date": " /2012-04-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "民国",
+      "李盛铎"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/60/2/22704423-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥37.00",
+   "book_name": " 穷通宝鉴（全二册）（中国古代命理学名著、文白对照 足本全译）00 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2015-07-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m2.ddimg.cn/59/4/1194400112-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥92.99",
+   "book_name": " 绘图寻龙点穴全5册 地理点穴撼龙经+地理人子演知+地理五诀+入地眼全书 地理风水书籍代表作八宅明镜 阴阳宅五行八卦易经周易入门",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版社",
+   "book_publish_date": " /2017-02-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "杨筠松"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/37/6/1011792016-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥78.00",
+   "book_name": " 命理书籍 白话全译正版古书3册 易经阴阳五行八卦纳音年月日表风水星相择吉看日子周易预测哲学书籍 钦定图解协纪辨方书第二 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2012-08-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "允禄",
+      "何国宗",
+      "梅瑴成"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/46/9/1244881585-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥46.08",
+   "book_name": " 奇门遁甲秘笈大全（郑同） + 中国传统文化经典临摹字帖 中国传统文化经典临摹字帖单本成本价6.2元",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版社",
+   "book_publish_date": " /2013-01-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "诸葛武侯"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/60/28/1263264018-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.30",
+   "book_name": " 地理人子须知（上） ",
+   "m_cate": "哲学/宗教",
+   "book_press": "内蒙古人民出版社",
+   "book_publish_date": " /2010-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": "文王之风，水布乾坤，好风好水好运来！ *简明易懂的风水常识，一看就懂，一学就会。 徐善继、徐善述两位兄弟所写的《图注地理人子须知(上)》一书，是一部具体阐述风水理论和风水应用的非常权威的名著。此书全面详尽的将龙砂穴水悉数论述；不只是摘抄前人成粜，更将自己的思考、心得、经验和盘托出，坦诚不藏私。",
+   "book_author": [
+      "徐善继",
+      "徐善述"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/56/33/21088442-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥45.00",
+   "book_name": " 绘图地理五诀+地理啖蔗录两册（中国古代风水学名著、文白对照 足本全译）风水经典书籍 风水学入门 风水书籍排名 图解风水 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2010-06-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "赵玉材"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/5/24/1453363169-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥78.00",
+   "book_name": " 【正版现货】普贤上师言教+大圆满前行：普贤上师言教 【全二册】这是修心的起点，也是终点—索达吉堪布译作 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "四川民族出版社",
+   "book_publish_date": " /2006-10-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "巴竹",
+      "吉美却旺"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/75/19/1302967488-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥28.90",
+   "book_name": " 地理辩证疏 正版全新图书 现货 出版社直供 量大可优惠",
+   "m_cate": "哲学/宗教",
+   "book_press": "中医古籍出版社",
+   "book_publish_date": " /2010-06-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "王道亨纂",
+      "柳洪泉",
+      "李祥",
+      "白话释意"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/1/22/1044572959-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥83.60",
+   "book_name": " 当代占星研究 (英)苏·汤普金斯|译者:胡因梦 9787222067158 + 限量赠送 2019日历一本 数量有限?赠完即止?2019台历?定价2元??本店赠品，实际参数，存在偏差均以收到实物为准，如无赠品不补发不折现",
+   "m_cate": "哲学/宗教",
+   "book_press": "云南人民出版社",
+   "book_publish_date": " /2013-05-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "苏·汤普金斯|译者",
+      "胡因梦"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/52/4/1419010018-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥19.50",
+   "book_name": " 中国古代命理学名著--大成国学之神相全编 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2015-07-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "陈抟|校注#cln#金志文"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/30/8/1085344059-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥27.80",
+   "book_name": " 图解一次完全读懂命理运程梦占 中国神秘文化百科1001问大全集 生成八字算命探源详解 风水占卜占星推命排盘生辰命理书籍 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "武汉出版",
+   "book_publish_date": " /2010-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m9.ddimg.cn/66/3/1143232959-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥19.80",
+   "book_name": " 正版图解麻衣神相古书面相学白话相法大全男女手相面相学相术书籍中国古代相学名著金志文译注看相麻衣相术术数五官麻衣相法 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识",
+   "book_publish_date": " /2010-02-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m3.ddimg.cn/22/5/1504792003-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.68",
+   "book_name": " 钦定罗经解定/周易与堪舆经典文集 (清)王道亨 ",
+   "m_cate": "哲学/宗教",
+   "book_press": null,
+   "book_publish_date": null,
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m5.ddimg.cn/4/6/1277248405-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.30",
+   "book_name": " 心眼指要 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "内蒙古人民出版社",
+   "book_publish_date": " /2010-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "章仲山"
+   ],
+   "book_img": "http://img3m4.ddimg.cn/58/35/21088444-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥21.40",
+   "book_name": " 绘图地理五诀（中国古代风水学名著、文白对照 足本全译） ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2010-06-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": "《绘图地理五诀(文白对照 足本全译)》为四库全书之中国古代风水学名著。",
+   "book_author": [
+      "赵玉材"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/19/19/1128738817-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥43.50",
+   "book_name": " 大六壬断案疏正 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄",
+   "book_publish_date": " /2012-01-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": "邵氏之壬，神乎其技；既敬且诚，占无不中。言忠教孝，规过劝孟口；天子庶人，靡不心悦。交易谋为，出行访谒；幽微决断，言词朴拙。刘氏疏正，索隐探赜，广博精当，大有心得。",
+   "book_author": [
+      "邵彦和",
+      "刘科乐",
+      "疏正"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/96/32/22611102-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥172.80",
+   "book_name": " 大六壬寻源编（上中下）（郑同） + 中国传统文化经典临摹字帖 中国传统文化经典临摹字帖单本成本价6.2元",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版",
+   "book_publish_date": " /2012-04-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "周彲",
+      "肖岱宗"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/13/32/1261081318-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥59.90",
+   "book_name": " 神相铁关刀+神相全编+水镜神相3册（中国古代风水学名著、文白对照 足本全译）水镜神相 神相全编风水经典书籍 风水学入门 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2010-09-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "金志文"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/48/4/1453476369-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥28.00",
+   "book_name": " 住宅商铺风水学（珍藏版）文白对照 足本全译 家居风水书 阳宅入门玄关布局装修风水秘本 现代住宅装修家庭布置 物品摆放 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2015-02-03",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "金志文"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/49/1/1165398547-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥21.00",
+   "book_name": " 六壬金口诀指玄 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版社",
+   "book_publish_date": " /2013-05-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "战国",
+      "孙膑"
+   ],
+   "book_img": "http://img3m3.ddimg.cn/89/27/23190443-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥148.90",
+   "book_name": " 阳宅三要(上中下) 正版 赵九峰 地理古镜歌阴阳宅风水书籍古籍线装手抄本 地理风水书籍 正版 赵九峰 地理古镜歌阴阳宅风水书籍古籍线装手抄本 地理风水书籍",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版社",
+   "book_publish_date": " /2011-10-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": "《阳宅三要》，清代堪舆大家赵九峰著。所谓阳宅三要，即阳宅的三个重要因素：一、门，是阳宅的关键所在，是一家人朝夕出入之途，如一个人的口喉，不能有丝毫之错。忌低矮、昏暗，主招劳役之灾。门外忌邻居家屋脊、房角、正檐兽头、道路来射，主损妻克子，若直冲门中线者则人命损伤。门宜宽敞明亮，大路或溪水环抱，则丁财两旺、男义女贤。门无具体位置，只是九星的位置以门而定，此为门转星移。二、主，为居卧之所。主与门相生，不可相克，所落主位的星要与宫相生，不可相克。相生则吉，反之则凶。三、灶，民以食为天，故灶乃饮食之方，相关甚大，首先要与门相生，其次要与主相生，再次所落灶位的星要与宫相生，为吉。反之则为凶。凡相宅时，先看大门，次看主房，再看灶室，只要三者相生，即为吉宅，主人财两旺、福寿双全；相克，",
+   "book_author": [
+      "赵九峰"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/70/2/1354685479-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥98.80",
+   "book_name": " 正版现货 钦定协纪辨方书（上中下）中国古代择吉学预测学名著文白对照 足本全译 阴阳五行风水星相命理 黄道吉日畅销书籍 上知天文 下知地理 中通人事",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2011-03-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "允禄",
+      "何国宗",
+      "梅瑴成"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/50/1/1393306448-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥35.00",
+   "book_name": " 大六壬断案疏正//邵彦和编刘科乐注六壬金口诀指玄六壬金口诀指玄大六壬通解实用周易择日精粹预测三元总录书籍 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版社",
+   "book_publish_date": " /2015-11-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "邵彦和"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/53/22/1150235117-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥48.30",
+   "book_name": " 风水学大师黄一真别墅风水书大全房地产投资财运风水书家居选址风水学书 新手图解建筑设计装修风水入门旺宅财富畅销书 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "湖南美术出版社",
+   "book_publish_date": " /2011-08-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/23/17/1461139637-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥60.00",
+   "book_name": " 正版奇门遁甲入门开悟之门神奇之门2册张志春奇门遁甲探秘 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "中国商业出版社",
+   "book_publish_date": " /2011-01-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "紫竹公"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/12/33/1290664299-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥399.00",
+   "book_name": " 完整的占星书全集10册 含：《当代占星研究》《内在的天空》(占星入门) 生命四元素 从占星入门学习到高阶 星座占卜书 内在的天空、当代占星研究、人生的十二面向、顺逆皆宜的人生、生命的轨迹、灵魂的目标、灵魂的功课、生命四元素、人际占星学、内在的宇宙 占星术学习书籍 畅销书",
+   "m_cate": "哲学/宗教",
+   "book_press": "深圳报业集团出版社",
+   "book_publish_date": " /2013-01-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "苏·汤普金斯",
+      "霍华德·萨司波塔斯"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/10/4/1437106681-1_b_5.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥29.90",
+   "book_name": " 四柱述要 邵氏命理学正解 中国易学文化传承解读丛书 谢沪著 古代哲学易学书籍 邵伟华弟子八字占断秘笈 四柱命理书籍 中 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "中国商业出版社",
+   "book_publish_date": " /2011-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "谢沪"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/59/24/1401142109-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥55.10",
+   "book_name": " 阴阳五要奇书 正版 (晋)郭璞 9787510820519 限量赠送 中华唤醒经典诵读丛书 三字经 1本 数量有限 赠完即止 中华唤醒经典诵读丛书 三字经 定价11元 本店赠品，实际参数，存在偏差均以收到实物为准，如无赠品不补发不折现",
+   "m_cate": "哲学/宗教",
+   "book_press": "九州出版社",
+   "book_publish_date": " /2014-01-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "郭璞"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/64/9/1401616027-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.50",
+   "book_name": " 紫薇斗数讲义 星曜性质 命理学玄学教材教程 适合初学者 陆斌兆 复旦大学出版社 限量赠送 中华唤醒经典诵读丛书 三字经 1本 数量有限 赠完即止 中华唤醒经典诵读丛书 三字经 定价11元 本店赠品，实际参数，存在偏差均以收到实物为准，如无赠品不补发不折现",
+   "m_cate": "哲学/宗教",
+   "book_press": "复旦大学出版社",
+   "book_publish_date": " /2013-04-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "陆斌兆"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/10/25/1371219211-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥42.00",
+   "book_name": " 中国古代预测学名著（套装共二册） 易隐，易冒，文白对照 足本全译",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2015-07-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "程良玉",
+      "金志文"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/40/7/1086216259-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥35.00",
+   "book_name": " 水龙经 注解版 故宫珍本丛刊 精选整理 清蒋平阶 附水龙经 阴阳宅 阴宅风水书籍 看坟地 寻龙点穴 相墓穴书籍正版权威 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "海南出版社",
+   "book_publish_date": " /2003-08-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "蒋平阶"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/6/26/1331239047-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥480.00",
+   "book_name": " 故宫珍本丛刊 术数 9种 共14册 中国术数经典 渊海子平 鲁班经 大六壬 高档礼品 梅花易数 命理风水书籍 皇家秘藏 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "海南出版社",
+   "book_publish_date": " /2011-08-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "李峰注"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/76/34/1098653170-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥26.00",
+   "book_name": " 奇门遁甲详解 文白对照原文白话译释 中国古代文化 神奇之门 奇门遁甲大解谜 中国古代哲学研究文萃详解 天文星象占卜风水 奇门遁甲文白对照天文星象占卜",
+   "m_cate": "哲学/宗教",
+   "book_press": "团结出版社",
+   "book_publish_date": " /2016-08-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "张辉"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/7/18/1459895587-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥60.00",
+   "book_name": " 钦定协纪辨方书（全三册）（中国古代预测学名著、文白对照 足本全译） ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2015-07-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "允禄",
+      "何国宗",
+      "梅瑴成"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/28/10/1128729817-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥79.80",
+   "book_name": " 正版 全4册御定奇门遁甲(全3册)+详解1本 天文星象占卜风水 周易全书易经入门 阳遁阴遁九局 图解预测大全 中国古代 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2011-03-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "金志文"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/81/26/1143026559-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥223.50",
+   "book_name": " 六壬神课金口诀 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄",
+   "book_publish_date": " /2011-10-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "适适子",
+      "周儆弦"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/12/16/22550628-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥32.00",
+   "book_name": " 图解中国神秘文化百科1001问一次完全读懂命理运程梦占 八字命理详解大全集天机书八字算命理生辰八字探源书籍 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "武汉出版社",
+   "book_publish_date": " /2015-02-03",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [],
+   "book_img": "http://img3m7.ddimg.cn/46/5/1149459247-1_b_3.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥35.00",
+   "book_name": " {买一赠{二图解麻衣神相 中国古代相学名著（宋）麻衣道者著 金志文译注 麻衣相法 看相 男女手相面相 术数五官相法书籍 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2010-02-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "麻衣道者"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/13/24/1249207159-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥45.00",
+   "book_name": " 穷通宝鉴上下 阴阳五行详解 命理著作 看八字书籍 正版 世界知识出版社 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2015-02-03",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "佚名"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/69/35/1165380747-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥29.80",
+   "book_name": " 神相全编（中国古代相学名著、文白对照 足本全译） ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2011-10-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "陈抟"
+   ],
+   "book_img": "http://img3m1.ddimg.cn/27/14/22541931-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥21.40",
+   "book_name": " 神相全编（中国古代相学名著、文白对照 足本全译） ",
+   "m_cate": "哲学/宗教",
+   "book_press": "世界知识出版社",
+   "book_publish_date": " /2015-07-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "陈抟|校注#cln#金志文"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/12/22/1128738117-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥24.00",
+   "book_name": " 六壬辨疑畢法案録 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版社",
+   "book_publish_date": " /2013-05-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "张官德"
+   ],
+   "book_img": "http://img3m5.ddimg.cn/91/29/23190445-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥21.00",
+   "book_name": " 京氏易传解读（上下）卢央杭氏易学七种 九州出版社 九州易学丛刊：京氏易传解读(上下) 九州易学丛刊：京氏易传解读(上下)",
+   "m_cate": "哲学/宗教",
+   "book_press": "九洲图书出版社",
+   "book_publish_date": " /2004-10-14",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "京房"
+   ],
+   "book_img": "http://img3m6.ddimg.cn/54/15/1423302066-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥75.00",
+   "book_name": " 沈氏玄空学 沈竹礽/增广沈氏玄空学易经杂说周易译注周易象数例解魏晋玄学论稿奇门遁甲详解图解六壬大全书籍 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "华龄出版社",
+   "book_publish_date": " /2016-10-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": "《增广沈氏玄空学》沈竹礽先生乃清代堪舆名家，发展了玄空风水而登峰造极，著有《沈氏玄空学》四卷。《沈氏玄空学》出版后，影响巨大。一时洛阳纸贵。再版时，沈祖绵及其门生们又从沈竹礽先生生前的手稿、信函及笔记中，蒐集了更多的相关内容，增补入书，原书亦内四卷增加为六卷，故名《增广沈氏玄空学》。此次整理以私人收藏的民国排印全本《增广沈氏玄窄学》为底本，一字不易，务求保持原貌。为方便读者阅读，《增广沈氏玄空学》简体横排，加以现代标点。其内容主要有：《自得斋地理丛说》、《阴宅秘断》、《阳宅秘断》、《九运挨星立成图》、《玄空浅说》、《起星图二百一卜六局》、《玄空辑要》、《玄空古义》、《从师随笔》、《地理精纂》等。《增广沈氏玄空学》不仅为历史与民俗研究开辟蹊径，也为中国古代文化研究者提供了一部",
+   "book_author": [
+      "沈竹"
+   ],
+   "book_img": "http://img3m7.ddimg.cn/61/8/1150235917-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥26.90",
+   "book_name": " 管氏地理指蒙 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "齐鲁书社",
+   "book_publish_date": " /2015-10-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": "中国风水学的集大成之作，历代堪舆师尊奉的必读经典",
+   "book_author": [
+      "三国",
+      "管辂",
+      "一苇"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/67/9/23814319-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥64.60",
+   "book_name": " 四柱六爻应用透解 张成武四柱应用六爻应用实践 命理入门六爻书籍9787504468918 + 限量赠送 2019日历一 数量有限?赠完即止?2019台历?定价2元??本店赠品，实际参数，存在偏差均以收到实物为准，如无赠品不补发不折现",
+   "m_cate": "哲学/宗教",
+   "book_press": "中国商业",
+   "book_publish_date": " /2010-08-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "张成武"
+   ],
+   "book_img": "http://img3m8.ddimg.cn/2/8/1418381318-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥27.00",
+   "book_name": " 中华民俗万年历 (1930-2120) 任宪宝 传统节日民俗风水文化 农历公历对照表 中华万年历全书 万年历书老黄历畅 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "新世界出版社",
+   "book_publish_date": " /2016-12-08",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "新世界出版社"
+   ],
+   "book_img": "http://img3m2.ddimg.cn/75/16/1444010412-1_b_1.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.30",
+   "book_name": " 地理乾坤法窍 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "内蒙古人民出版社",
+   "book_publish_date": " /2010-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "范宜宾"
+   ],
+   "book_img": "http://img3m9.ddimg.cn/63/3/21088449-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}{
+   "book_price": "¥22.30",
+   "book_name": " 玉髓真经 ",
+   "m_cate": "哲学/宗教",
+   "book_press": "内蒙古人民出版社",
+   "book_publish_date": " /2010-12-01",
+   "b_cate": [
+      "人文社科"
+   ],
+   "s_cate": "术数/命理",
+   "book_desc": null,
+   "book_author": [
+      "张子微"
+   ],
+   "book_img": "http://img3m0.ddimg.cn/54/31/21088440-1_b_2.jpg",
+   "s_href": "http://category.dangdang.com/cp01.28.02.08.00.00.html"
+}
